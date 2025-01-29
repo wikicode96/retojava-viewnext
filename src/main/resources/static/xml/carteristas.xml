@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<carteristas>
+	<carterista>
+		<DNI>12345678A</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gena1cb155f6e5514691c94a4bc7b043447.jpg</foto>
+		<nombre>Juan</nombre>
+		<apellidos>Perez Martínez</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Media</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>87654321B</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gene6c251ed6c5f50ccae6cdac121c761f0.jpg</foto>
+		<nombre>Maria</nombre>
+		<apellidos>Lopez Jiménez</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Negros</ojos>
+		<estatura>Media</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>11223344C</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-genf733db73ebc398ff43b31a0a11c4d660.jpg</foto>
+		<nombre>Carlos</nombre>
+		<apellidos>Garcia Almendro</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Alta</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>44332211D</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gene38ee846d9cda532ef5efd96045bce22.jpg</foto>
+		<nombre>Lucas</nombre>
+		<apellidos>Martinez de la Rosa</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Baja</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>55667788E</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen907ec75d99ae1034e19c602079cedcf7.jpg</foto>
+		<nombre>Luis</nombre>
+		<apellidos>Fernandez Bonmarti</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Alta</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>66778899F</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen62beabee989a2401959c135bae43486c.jpg</foto>
+		<nombre>Martin</nombre>
+		<apellidos>Gomez Serrano</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Media</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>77889900G</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-genc0041c012e7d63e72ff366f7e7841766.jpg</foto>
+		<nombre>Antonia</nombre>
+		<apellidos>Sancha Luque</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Negros</ojos>
+		<estatura>Baja</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>88990011H</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen77baa837359ba27a16e6f2284b4673b3.jpg</foto>
+		<nombre>Fernando</nombre>
+		<apellidos>Jimenez Jimenez</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Baja</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>99001122I</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen5443978f79a6a94cf7cd4fff8c5c4325.jpg</foto>
+		<nombre>Jimena</nombre>
+		<apellidos>Ruiz Garcia</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Alta</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>00112233J</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-genb1d688135bdb61e5c5fc4284be96eefc.jpg</foto>
+		<nombre>Sara</nombre>
+		<apellidos>Martin Presa</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Alta</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000010K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-genc98f948f30c159c5522a5f317cdd29f3.jpg</foto>
+		<nombre>Emilio Jesus</nombre>
+		<apellidos>Neves Beraldo</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Alta</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000011K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gene8a556ff7825e573edac5f018e2cac98.jpg</foto>
+		<nombre>Joaquin</nombre>
+		<apellidos>Fernandez Pisa</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Baja</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000012K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen6aecef13aa705225785b3aa146455339.jpg</foto>
+		<nombre>Bartolo</nombre>
+		<apellidos>Sanz Rodriguez</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Verdes</ojos>
+		<estatura>Media</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000013K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen37e4a63aa0f007f307362b5b37422e50.jpg</foto>
+		<nombre>Isabela</nombre>
+		<apellidos>Moreno Rubio</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Alta</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000014K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen1a8b9dee045268f412bdda55612b7e80.jpg</foto>
+		<nombre>Perica</nombre>
+		<apellidos>Horta Sanchez</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Media</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000015K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen89fbe58a15d2b85e6bdc6173bb43096b.jpg</foto>
+		<nombre>Mathew</nombre>
+		<apellidos>McDonald</apellidos>
+		<cabello>Moreno</cabello>
+		<ojos>Marrones</ojos>
+		<estatura>Baja</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000016K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-genfd3565d856981ac28d7715969c492378.jpg</foto>
+		<nombre>Martin (el malaguita)</nombre>
+		<apellidos>Perez Perez</apellidos>
+		<cabello>Blanco</cabello>
+		<ojos>Verdes</ojos>
+		<estatura>Media</estatura>
+		<genero>Hombre</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000017K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen3bf82413fc9707d5cc50bb71696b882c.jpg</foto>
+		<nombre>Barti</nombre>
+		<apellidos>Simpson</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Baja</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+	<carterista>
+		<DNI>00000018K</DNI>
+		<foto>https://this-person-does-not-exist.com/img/avatar-gen2c558424515bb4b81b861d3c3283c181.jpg</foto>
+		<nombre>Joaquina</nombre>
+		<apellidos>Sanchez Sanchez</apellidos>
+		<cabello>Rubio</cabello>
+		<ojos>Azules</ojos>
+		<estatura>Media</estatura>
+		<genero>Mujer</genero>
+	</carterista>
+</carteristas>
