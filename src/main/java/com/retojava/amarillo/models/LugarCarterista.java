@@ -1,4 +1,4 @@
-package com.retojava.amarilloModels;
+package com.retojava.amarillo.models;
 
 public class LugarCarterista {
     private String DNI;
@@ -14,7 +14,6 @@ public class LugarCarterista {
         this.longitud = longitud;
     }
 
-    // Getters y setters
     public String getDNI() {
         return DNI;
     }

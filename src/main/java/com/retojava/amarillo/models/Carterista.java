@@ -1,4 +1,4 @@
-package com.retojava.amarilloModels;
+package com.retojava.amarillo.models;
 
 public class Carterista {
 	private String dni;

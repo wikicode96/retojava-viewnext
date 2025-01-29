@@ -1,4 +1,4 @@
-package com.retojava.amarilloModels;
+package com.retojava.amarillo.models;
 
 import java.util.Arrays;
 
@@ -23,7 +23,6 @@ public class Lugar {
         this.lineasDeAutobus = lineasDeAutobus;
     }
 
-    // Getters y setters
     public String getNombre() {
         return nombre;
     }
