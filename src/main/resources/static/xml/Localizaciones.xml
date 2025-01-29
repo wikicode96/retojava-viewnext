@@ -1,0 +1,205 @@
+<lugares>
+  <lugar>
+    <nombre>Catedral de la Encarnación</nombre>
+    <direccion>Calle Molina Lario, s/n, 29015 Málaga, España</direccion>  
+    <latitud>36.7203</latitud>
+    <longitud>-4.4211</longitud>
+    <categoria>monumento</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo Picasso Málaga</nombre>
+    <direccion>Calle San Agustín, 8, 29015 Málaga, España</direccion>   
+    <latitud>36.7213</latitud>
+    <longitud>-4.4264</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Gibralfaro</nombre>
+    <direccion>Calle Gibralfaro, s/n, 29016 Málaga, España</direccion> 
+    <latitud>36.7255</latitud>
+    <longitud>-4.4195</longitud>
+    <categoria>monumento</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Playa de la Malagueta</nombre>
+    <direccion>Paseo Marítimo, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7233</latitud>
+    <longitud>-4.4133</longitud>
+    <categoria>playa</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Plaza de la Merced</nombre>
+    <direccion>Plaza de la Merced, s/n, 29012 Málaga, España</direccion>
+    <latitud>36.7223</latitud>
+    <longitud>-4.4224</longitud>
+    <categoria>plaza</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Alcazaba</nombre>
+    <direccion>Calle Alcazaba, s/n, 29012 Málaga, España</direccion>
+    <latitud>36.7282</latitud>
+    <longitud>-4.4293</longitud>
+    <categoria>monumento</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Jardines de Pedro Luis Alonso</nombre>
+    <direccion>Calle Pedro Luis Alonso, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7298</latitud>
+    <longitud>-4.4172</longitud>
+    <categoria>jardín</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo de Arte Flamenco</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7290</latitud>
+    <longitud>-4.4311</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Teatro Romano</nombre>
+    <direccion>Calle Alcazaba, s/n, 29012 Málaga, España</direccion>
+    <latitud>36.7243</latitud>
+    <longitud>-4.4153</longitud>
+    <categoria>monumento</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Iglesia de Santiago</nombre>
+    <direccion>Calle Santiago, 1, 29015 Málaga, España</direccion>
+    <latitud>36.7213</latitud>
+    <longitud>-4.4214</longitud>
+    <categoria>iglesia</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Plaza de la Constitución</nombre>
+    <direccion>Plaza de la Constitución, s/n, 29015 Málaga, España</direccion>
+    <latitud>36.7223</latitud>
+    <longitud>-4.4330</longitud>
+    <categoria>plaza</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo de Bellas Artes</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7241</latitud>
+    <longitud>-4.4210</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Jardines de Pedro Luis Alonso</nombre>
+    <direccion>Calle Pedro Luis Alonso, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7259</latitud>
+    <longitud>-4.4121</longitud>
+    <categoria>jardín</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Playa de la Caleta</nombre>
+    <direccion>Paseo Marítimo, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7240</latitud>
+    <longitud>-4.4132</longitud>
+    <categoria>playa</categoria>
+  </lugar>
+    <lugar>
+    <nombre>Museo de la Ciudad</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7251</latitud>
+    <longitud>-4.4233</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Iglesia de San Juan</nombre>
+    <direccion>Calle San Juan, 1, 29015 Málaga, España</direccion>
+    <latitud>36.7310</latitud>
+    <longitud>-4.4234</longitud>
+    <categoria>iglesia</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Plaza de la Victoria</nombre>
+    <direccion>Plaza de la Victoria, s/n, 29015 Málaga, España</direccion>
+    <latitud>36.7313</latitud>
+    <longitud>-4.4203</longitud>
+    <categoria>plaza</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo de Arte Contemporáneo</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7201</latitud>
+    <longitud>-4.4209</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Jardines de la Encarnación</nombre>
+    <direccion>Calle Encarnación, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7228</latitud>
+    <longitud>-4.4143</longitud>
+    <categoria>jardín</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Playa de Pedregalejo</nombre>
+    <direccion>Paseo Marítimo, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7434</latitud>
+    <longitud>-4.4277</longitud>
+    <categoria>playa</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo de la Música</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7298</latitud>
+    <longitud>-4.4299</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Iglesia de la Encarnación</nombre>
+    <direccion>Calle Encarnación, 1, 29015 Málaga, España</direccion>
+    <latitud>36.7216</latitud>
+    <longitud>-4.4266</longitud>
+    <categoria>iglesia</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Plaza de la Canasta</nombre>
+    <direccion>Plaza de la Canasta, s/n, 29012 Málaga, España</direccion>
+    <latitud>36.7211</latitud>
+    <longitud>-4.4212</longitud>
+    <categoria>plaza</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo de la Historia</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7231</latitud>
+    <longitud>-4.4232</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Jardines de la Pedro</nombre>
+    <direccion>Calle Pedro, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7267</latitud>
+    <longitud>-4.4179</longitud>
+    <categoria>jardín</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Playa de la Misericordia</nombre>
+    <direccion>Paseo Marítimo, s/n, 29016 Málaga, España</direccion>
+    <latitud>36.7222</latitud>
+    <longitud>-4.4119</longitud>
+    <categoria>playa</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Museo de la Ciencia</nombre>
+    <direccion>Calle de la Victoria, 11, 29015 Málaga, España</direccion>
+    <latitud>36.7260</latitud>
+    <longitud>-4.4264</longitud>
+    <categoria>museo</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Iglesia de San Felipe</nombre>
+    <direccion>Calle San Felipe, 1, 29015 Málaga, España</direccion>
+    <latitud>36.7291</latitud>
+    <longitud>-4.4290</longitud>
+    <categoria>iglesia</categoria>
+  </lugar>
+  <lugar>
+    <nombre>Plaza de la Encarnación</nombre>
+    <direccion>Plaza de la Encarnación, s/n, 29012 Málaga, España</direccion>
+    <latitud>36.7280</latitud>
+    <longitud>-4.4281</longitud>
+    <categoria>plaza</categoria>
+  </lugar>
+</lugares>
